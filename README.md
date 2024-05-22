@@ -30,8 +30,6 @@ There are 483 disloyal customers who have churned the services of SyriaTel.
 No column had a missing value.
 There are 51 unique states represented in this Dataframe.
 The churn rate was observed to be at 14.49%.
-The churn rate currently stands at 14.49% 
-
 
 ### Modelling
 
